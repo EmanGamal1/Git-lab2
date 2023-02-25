@@ -1,9 +1,12 @@
 Git lab2
 
 1- Tell me how to remove them locally and remotely.
+
     (Locally):
         `git branch -D dev`
         `git branch -D test`
+
+
     (Remotely):
 `git push origin --delete dev`
 `git push origin --delete test`
