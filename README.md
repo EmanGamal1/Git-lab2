@@ -1,11 +1,10 @@
 Git lab2
 
 1- Tell me how to remove them locally and remotely.
-    => Locally:
+    (Locally):
         `git branch -D dev`
         `git branch -D test`
-
-    => Remotely:
+    (Remotely):
 `git push origin --delete dev`
 `git push origin --delete test`
 
@@ -13,8 +12,8 @@ Git lab2
     `git tag`
 
 3- Tell me how to delete tag locally and remotely.
-    => locally:
+    (locally):
         `git tag -d v1.7`
 
-    => remotely:
+    (remotely):
 `git push --delete origin v1.7`
