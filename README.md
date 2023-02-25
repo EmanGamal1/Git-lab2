@@ -6,8 +6,8 @@ Git lab2
         `git branch -D test`
 
     => Remotely:
-        `git push origin --delete dev`
-        `git push origin --delete test`
+`git push origin --delete dev`
+`git push origin --delete test`
 
 2- Tell me how to list tags.
     `git tag`
@@ -17,4 +17,4 @@ Git lab2
         `git tag -d v1.7`
 
     => remotely:
-        `git push --delete origin v1.7`
+`git push --delete origin v1.7`
