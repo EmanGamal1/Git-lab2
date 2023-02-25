@@ -16,3 +16,5 @@ Git lab2
         `git tag -d v1.7` <br/>
     (remotely):<br/>
 `git push --delete origin v1.7`
+
+![logo of git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
